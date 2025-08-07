@@ -34,9 +34,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
- cd path/to/your/project
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/newedenempire/new-eden-holdings.git
-git push -u origin master
